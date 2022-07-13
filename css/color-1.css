@@ -1,0 +1,112 @@
+.art-link.art-color-link {
+  color: #ffc107;
+}
+
+.art-link.art-color-link:hover {
+  color: #ffc107;
+}
+.art-btn {
+  background: #ffc107;
+}
+
+blockquote {
+  background: #ffc107;
+}
+
+.art-custom-list li:before {
+  border: solid 2px #ffc107;
+}
+
+.art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp {
+  background: #ffc107;
+}
+
+.art-info-bar .art-name:hover a {
+  color: #ffc107;
+}
+
+.art-info-bar .art-knowledge-list li:before {
+  color: #ffc107;
+}
+
+.art-menu-bar .art-language-change li.art-active-lang {
+  background-color: #ffc107;
+}
+
+.art-code i {
+  color: #ffc107;
+}
+
+.art-counter-frame .art-counter-box .art-counter {
+  color: #ffc107;
+}
+
+.art-counter-frame .art-counter-box .art-counter-plus {
+  color: #ffc107;
+}
+
+.art-price.art-popular-price:before {
+  background: #ffc107;
+}
+
+.art-price .art-price-body .art-price-cost .art-number {
+  color: #ffc107;
+}
+
+.art-price .art-price-body .art-price-list li:before {
+  color: #ffc107;
+}
+
+.art-price .art-price-body .art-price-list li.art-empty-item:before {
+  color: #ffc107;
+}
+
+.art-testimonial .art-testimonial-footer .art-star-rate {
+  color: #ffc107;
+}
+
+.art-slider-navigation
+  .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: #ffc107;
+}
+
+.fancybox-progress {
+  background: #ffc107;
+}
+
+.fancybox-thumbs__list a:before {
+  border-color: #ffc107;
+}
+
+.art-timeline .art-timeline-item .art-timeline-mark {
+  border: solid 3px #ffc107;
+}
+
+.art-form-field textarea.art-active {
+  border-color: #ffc107;
+}
+
+.art-form-field textarea:focus {
+  border-color: #ffc107;
+}
+
+.art-contact-form .art-input.art-active + label,
+.art-contact-form .art-input:focus + label {
+  background: #ffc107;
+}
+
+.art-pagination .art-pagination-center a.art-active-pag {
+  color: #ffc107;
+}
+
+.art-preloader-load path:last-child {
+  stroke: #ffc107;
+}
+
+.art-line-progress path:last-child {
+  stroke: #ffc107;
+}
+
+.art-cirkle-progress path:last-child {
+  stroke: #ffc107;
+}
