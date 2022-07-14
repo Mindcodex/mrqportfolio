@@ -124,29 +124,29 @@ blockquote {
 }
 .card-svelte {
   background: linear-gradient(159deg, #ff3e00 0%, #101010 100%);
-  width: 343.33px;
+  width: 300px;
   height: 196.72px;
 }
 .card-react {
   background: linear-gradient(159deg, #222222 0%, #101010 100%);
-  width: 343.33px;
+  width: 300px;
   height: 196.72px;
 }
 .card-tailwind {
   background: linear-gradient(159deg, #ffffff 0%, #101010 100%);
-  width: 343.33px;
+  width: 300px;
   height: 196.72px;
 }
 .card-nextjs {
 }
 .card-typescript {
   background: linear-gradient(159deg, #007acc 0%, #101010 100%);
-  width: 343.33px;
+  width: 300px;
   height: 196.72px;
 }
 .card-javascript {
   background: linear-gradient(159deg, #f0db4f 0%, #101010 100%);
-  width: 343.33px;
+  width: 300px;
   height: 196.72px;
 }
 .card-java {
@@ -154,16 +154,17 @@ blockquote {
 }
 .card-html {
   background: linear-gradient(159deg, #e34f26 0%, #101010 100%);
-  width: 343.33px;
+  width: 300px;
   height: 196.72px;
 }
 .card-css {
   background: linear-gradient(159deg, #1b73ba 0%, #101010 100%);
-  width: 343.33px;
+  width: 300px;
   height: 196.72px;
 }
 .card-java {
   background: linear-gradient(159deg, #5382a1 0%, #101010 100%);
-  width: 343.33px;
+  width: 300px;
   height: 196.72px;
 }
+/*343.33px*/
