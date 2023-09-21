@@ -1,4 +1,7 @@
 {
+	"scripts": {
+		"dev":""
+	},
 	"dependencies": {
 		"svelte": "^3.59.1"
 	}
