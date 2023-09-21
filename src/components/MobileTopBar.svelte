@@ -1,1 +1,0 @@
-<div class="art-mobile-top-bar"></div>
